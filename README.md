@@ -40,11 +40,11 @@ Tenho 27 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 
 ### :zap: Ultimas atividades
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com//gustavonovaes/react-upload-example-client/pull/11) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
-2. 🎉 Merged PR [#5](https://github.com//gustavonovaes/react-upload-example-client/pull/5) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
-3. 🎉 Merged PR [#10](https://github.com//gustavonovaes/react-upload-example-client/pull/10) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
-4. 🎉 Merged PR [#9](https://github.com//gustavonovaes/react-upload-example-client/pull/9) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
-5. 🎉 Merged PR [#8](https://github.com//gustavonovaes/react-upload-example-client/pull/8) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
+1. 🎉 Merged PR [#1](https://github.com//gustavonovaes/react-expense-tracker/pull/1) in [gustavonovaes/react-expense-tracker](https://github.com//gustavonovaes/react-expense-tracker)
+2. 🎉 Merged PR [#2](https://github.com//gustavonovaes/react-expense-tracker/pull/2) in [gustavonovaes/react-expense-tracker](https://github.com//gustavonovaes/react-expense-tracker)
+3. 🎉 Merged PR [#3](https://github.com//gustavonovaes/react-expense-tracker/pull/3) in [gustavonovaes/react-expense-tracker](https://github.com//gustavonovaes/react-expense-tracker)
+4. 🎉 Merged PR [#11](https://github.com//gustavonovaes/react-upload-example-client/pull/11) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
+5. 🎉 Merged PR [#5](https://github.com//gustavonovaes/react-upload-example-client/pull/5) in [gustavonovaes/react-upload-example-client](https://github.com//gustavonovaes/react-upload-example-client)
 <!--END_SECTION:activity-->
 <br />
 
