@@ -4,7 +4,7 @@ Tenho 27 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 
 
 - :hammer: Atualmente desenvolvendo um Ecommerce em PHP
-- :seedling: Ganhando experiência em: **React**, **UI/UX**, **Laravel**, **Firebase**.
+- :seedling: Ganhando experiência em: **React**, **Node.js**, **UI/UX**, **Firebase**, **Laravel**.
 - :point_right: Metas 2020: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
 
 
@@ -25,8 +25,8 @@ Tenho 27 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 [<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" />][github]
 [<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />][github]
 [<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />][github]
-[<img width="32px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" />][github]
 [<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />][github]
+[<img width="32px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP" />][github]
 [<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" />][github]
 [<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" />][github]
 [<img width="32px" src="https://raw.githubusercontent.com/gatsbyjs/gatsby/master/www/static/favicon-32x32.png" alt="Gatsby.js" />][github]
