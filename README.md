@@ -3,9 +3,9 @@
 Tenho 27 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com Desenvolvimento Web.
 
 
-- :hammer: Atualmente trabalhando com microservices em PHP
-- :seedling: Ganhando experiência em: **Laravel**, **Node.js**, **React** e **UI/UX**.
-- :point_right: Metas 2020: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
+- :hammer: Atualmente trabalhando com magento em PHP
+- :seedling: Ganhando experiência em: **AWS**, **Magento**, **Laravel**, **Node.js**, **React** e **UI/UX**.
+- :point_right: Metas 2021: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
 
 
 
