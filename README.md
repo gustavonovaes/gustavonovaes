@@ -43,7 +43,7 @@ Tenho 27 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 <br />
 
 
-<img align="left" alt="gustavonovaes's Github Stats" src="https://github-readme-stats.gustavonovaes.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
+<img align="left" alt="gustavonovaes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
 
 [github]: https://github.com/gustavonovaes
 [twitter]: https://twitter.com/gustavonovaes93
