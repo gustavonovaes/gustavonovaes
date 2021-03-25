@@ -1,6 +1,6 @@
 ### Olá, sou Gustavo :wave:
 
-Tenho 27 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com Desenvolvimento Web.
+Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com Desenvolvimento Web.
 
 
 - :hammer: Atualmente trabalhando com Magento em PHP
