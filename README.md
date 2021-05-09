@@ -1,13 +1,11 @@
 ### Olá, sou Gustavo :wave:
 
-Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com Desenvolvimento Web.
+Tenho 28 anos, estudo programação desde os 13 e estou a 9 anos trabalhando com Desenvolvimento Web.
 
 
 - :hammer: Atualmente trabalhando com *microservices* em Laravel (PHP)
 - :seedling: Ganhando experiência em: **AWS**, **Laravel**, **Node.js**, **React**, **Magento 2** e **UI/UX**.
 - :point_right: Metas 2021: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
-
-
 
 ### Me encontre também em:
 
@@ -15,6 +13,7 @@ Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 [<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Linguagens e ferramentas:
@@ -44,6 +43,7 @@ Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 <br />
 
 ### Também tenho interesse:
+
 &nbsp;
 <img width="42px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" title="Symfony" />
 <img width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C" />
