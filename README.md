@@ -17,7 +17,7 @@ Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 
 <br />
 
-### Linguagens e Ferramentas:
+### Linguagens e ferramentas:
 
 &nbsp;
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" title="PHP" />
@@ -28,7 +28,7 @@ Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 <br>
 <img width="48px" src="https://github.com/laravel/art/blob/master/laravel-logo.png?raw=true" title="Laravel" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" />
-<img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" />
+<img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React + React Native" />
 <br>
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="Linux" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" />
@@ -42,6 +42,14 @@ Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 <br />
 <br />
 
+### Também tenho interesse:
+&nbsp;
+<img width="42px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" title="Symfony" />
+<img width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C" />
+<img width="42px" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" title="Elixir" />
+<img width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" title="Rust" />
+<br />
+<br />
 
 <img align="left" alt="gustavonovaes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
 
