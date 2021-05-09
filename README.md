@@ -40,6 +40,7 @@ Tenho 28 anos, estudo programação desde os 13 e estou a 8 anos trabalhando com
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MySQL" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" title="Firebase" />
 <br />
+<img width="48px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" title="AWS" />
 <br />
 
 ### Também tenho interesse:
