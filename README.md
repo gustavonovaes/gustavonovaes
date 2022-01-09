@@ -5,7 +5,7 @@ Tenho 28 anos, sou dev há 13 anos e estou trabalhando com Desenvolvimento Web d
 
 - :hammer: Trabalhando no backend com **Node.js** (Express + NestJS) e microserviços em **PHP** (Laravel). 
 - :seedling: Ganhando mais experiência em: **Node.js**, **NestJS**, **React**/**React Native** e **AWS**. 
-- :point_right: Metas 2021: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
+- :point_right: Metas 2022: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
 
 ### Me encontre também em:
 
