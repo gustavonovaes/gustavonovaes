@@ -1,6 +1,6 @@
 ### Olá, sou Gustavo :wave:
 
-Tenho 28 anos, sou dev há 13 anos e estou trabalhando com Desenvolvimento Web desde 2012.
+Tenho 28 anos, sou dev há 13 anos. Trabalho com Desenvolvimento Web desde 2012, com Node.js desde 2019 e React Native desde 2020.
 
 
 - :hammer: Trabalhando atualmente com **React Native**, no backend com **Node.js** (Express + NestJS) e microserviços em **PHP** (Laravel). 
@@ -43,7 +43,7 @@ Tenho 28 anos, sou dev há 13 anos e estou trabalhando com Desenvolvimento Web d
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" title="AWS" />
 <br />
 
-### Também tenho interesse:
+### Também despertam meu interesse :heart:
 
 &nbsp;
 <img width="42px" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" title="Elixir" />
