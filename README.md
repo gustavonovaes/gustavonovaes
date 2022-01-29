@@ -3,8 +3,8 @@
 Tenho 28 anos, sou dev há 13 anos e estou trabalhando com Desenvolvimento Web desde 2012.
 
 
-- :hammer: Trabalhando no backend com **Node.js** (Express + NestJS) e microserviços em **PHP** (Laravel). 
-- :seedling: Ganhando mais experiência em: **Node.js**, **NestJS**, **React**/**React Native** e **AWS**. 
+- :hammer: Trabalhando atualmente com **React Native**, no backend com **Node.js** (Express + NestJS) e microserviços em **PHP** (Laravel). 
+- :seedling: Ganhando mais experiência em: **Node.js**, **React**/**React Native** e **AWS**. 
 - :point_right: Metas 2022: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
 
 ### Me encontre também em:
@@ -26,8 +26,8 @@ Tenho 28 anos, sou dev há 13 anos e estou trabalhando com Desenvolvimento Web d
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" />
 <br>
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" />
-<img width="48px" src="https://github.com/laravel/art/blob/master/laravel-logo.png?raw=true" title="Laravel" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React + React Native" />
+<img width="48px" src="https://github.com/laravel/art/blob/master/laravel-logo.png?raw=true" title="Laravel" />
 <br>
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="Linux" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" />
@@ -36,7 +36,8 @@ Tenho 28 anos, sou dev há 13 anos e estou trabalhando com Desenvolvimento Web d
 <br>
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" title="Postgres" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL" />
-<img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MySQL" />
+<img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDb" />
+<img width="48px" src="https://raw.githubusercontent.com/github/explore/902a8a38f1e277eb27d2a10ab95a3d524a6ea22f/topics/oracle-database/oracle-database.png" title="Oracle Database" />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" title="Firebase" />
 <br />
 <img width="48px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" title="AWS" />
