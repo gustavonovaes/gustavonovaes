@@ -55,6 +55,6 @@ Tenho 29 anos, sou dev há 14 anos. Trabalho com Desenvolvimento Web desde 2012,
 <img align="left" alt="gustavonovaes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
 
 [github]: https://github.com/gustavonovaes
-[twitter]: https://twitter.com/gustavonovaes93
+[twitter]: https://twitter.com/gustavon0vaes
 [instagram]: https://instagram.com/gustavonovaes.dev
 [linkedin]: https://www.linkedin.com/in/gustavonovaes
