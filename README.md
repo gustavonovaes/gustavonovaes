@@ -1,11 +1,9 @@
 ### Olá, sou Gustavo :wave:
 
-Tenho 29 anos, sou dev há 14 anos. Trabalho com Desenvolvimento Web desde 2012, com Node.js desde 2019 e React Native desde 2020.
+Tenho 29 anos, trabalho com Desenvolvimento Web há 10 anos :lotus_position_man: 
 
-
-- :hammer: Trabalhando atualmente com **React Native**, no backend com **Node.js** (Express + NestJS) e microserviços em **PHP** (Laravel). 
-- :seedling: Ganhando mais experiência em: **Node.js**, **React**/**React Native** e **AWS**. 
-- :point_right: Metas 2022: [Desafio Pessoal de Criar 10 Projetos](https://github.com/gustavonovaes/multiplayer-game-php-swoole-websocket/blob/master/README.md#why) (em andamento)
+- :hammer: Trabalhando atualmente com **Node.js**, **React** e **AngularJS**
+- :seedling: Ganhando mais experiência em **Terraform** e **AWS**. 
 
 ### Me encontre também em:
 
