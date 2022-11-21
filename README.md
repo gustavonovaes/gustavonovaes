@@ -2,7 +2,7 @@
 
 Tenho 29 anos, trabalho com Desenvolvimento Web há 10 anos :lotus_position_man: 
 
-- :hammer: Trabalhando atualmente com **Node.js**, **React** e **AngularJS**
+- :hammer: Trabalhando atualmente com **Node.js** e **React**
 - :seedling: Ganhando mais experiência em **Terraform** e **AWS**. 
 
 ### Me encontre também em:
