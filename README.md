@@ -5,14 +5,8 @@ Tenho 29 anos, trabalho com Desenvolvimento Web há 10 anos. :lotus_position_man
 - :hammer: Trabalhando atualmente com **Node.js** e **React**.
 - :seedling: Ganhando mais experiência com **AWS**. 
 
-### Me encontre também em:
+<img align="right" alt="gustavonovaes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
 
-[<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />][linkedin]
-
-<br />
-<br />
 
 ### Linguagens e ferramentas:
 
@@ -49,7 +43,14 @@ Tenho 29 anos, trabalho com Desenvolvimento Web há 10 anos. :lotus_position_man
 <br />
 <br />
 
-<img align="left" alt="gustavonovaes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
+### Me encontre também em:
+
+[<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gustavo Novaes" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
 
 [github]: https://github.com/gustavonovaes
 [twitter]: https://twitter.com/__gustavonovaes
