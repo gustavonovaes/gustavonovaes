@@ -10,7 +10,7 @@ Tenho 29 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando ap
   - **React** 
 
 - :seedling: Ganhando mais experiência com 
-  - **AWS** 
+  - **AWS** e **GCP** 
   - **Kubernetes**
   - **Kafka**
 
