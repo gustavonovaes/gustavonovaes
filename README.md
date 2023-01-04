@@ -4,7 +4,9 @@ Tenho 29 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando ap
 
 <img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
 
-- :telescope: Trabalhando atualmente com 
+<div style="float: left; width: 50%;">
+
+- :hammer_and_wrench: Trabalhando atualmente com 
   - **Typescript**
   - **Node.js**
   - **React** 
@@ -14,7 +16,7 @@ Tenho 29 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando ap
   - **Kubernetes**
   - **Kafka**
 
-#### :hammer_and_wrench: Linguagens, tecnologias e ferramentas
+#### :books: Linguagens, tecnologias e ferramentas
 
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -33,6 +35,9 @@ Tenho 29 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando ap
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
+</div>
+
+<div style="float: right; width: 50%;">
 
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -138,6 +143,8 @@ Tenho 29 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando ap
 [<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />][linkedin]
+
+</div>
 
 [github]: https://github.com/gustavonovaes
 [twitter]: https://twitter.com/__gustavonovaes
