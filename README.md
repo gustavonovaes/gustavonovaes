@@ -1,6 +1,6 @@
 ### Olá :wave:, sou o Gustavo Novaes :lotus_position_man: 
 
-Tenho 29 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando aplicações fullstack, REST APIs, microsserviços e aplicativos móveis. 
+Tenho 30 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando aplicações fullstack, REST APIs, microsserviços e aplicativos móveis. 
 
 <img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=gustavonovaes&show_icons=true&hide_border=true" />
 
