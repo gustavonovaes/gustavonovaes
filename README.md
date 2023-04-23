@@ -1,6 +1,6 @@
 ### Olá :wave:, sou o Gustavo Novaes :lotus_position_man: 
 
-Tenho 30 anos e trabalho com desenvolvimento Web há mais de 10 anos, criando aplicações fullstack, REST APIs, microsserviços e aplicativos móveis. 
+Tenho 30 anos e trabalho com desenvolvimento Web há mais de 10 anos, construindo aplicações fullstack, REST APIs, microsserviços e aplicativos móveis. 
 
 <div style="float: left; width: 50%;">
 
