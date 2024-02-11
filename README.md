@@ -13,6 +13,7 @@ Tenho 30 anos e trabalho com desenvolvimento Web há mais de 10 anos, construind
   - **AWS** e **GCP** 
   - **Kubernetes**
   - **Kafka**
+  - **Go**
 
 #### :books: Linguagens, tecnologias e ferramentas
 <dl>
