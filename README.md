@@ -139,7 +139,7 @@ Tenho 30 anos e trabalho com desenvolvimento Web há mais de 10 anos, construind
   <dd>
     <p align="left">
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/> 
       </a>
       <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
