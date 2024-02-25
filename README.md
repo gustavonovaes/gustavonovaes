@@ -155,7 +155,6 @@ Tenho 31 anos e trabalho com desenvolvimento Web há mais de 12 anos, construind
 #### :mailbox: Me encontre também em
   
 [<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />][linkedin]
 
 </div>
