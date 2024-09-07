@@ -116,6 +116,9 @@ Tenho 31 anos e trabalho com desenvolvimento Web há mais de 12 anos, construind
       <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
       </a>  
+      <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/> 
+      </a> 
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
       </a> 
@@ -139,12 +142,6 @@ Tenho 31 anos e trabalho com desenvolvimento Web há mais de 12 anos, construind
   <dt>:bulb: Também despertam meu interesse</dt>
   <dd>
     <p align="left">
-      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/> 
-      </a>
-      <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
-      </a>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Lang" width="40" height="40"/> 
       </a>
@@ -153,13 +150,10 @@ Tenho 31 anos e trabalho com desenvolvimento Web há mais de 12 anos, construind
 </dl>
 
 #### :mailbox: Me encontre também em
-  
-[<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Gustavo Novaes" width="32px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" />][linkedin]
 
 </div>
 
 [github]: https://github.com/gustavonovaes
-[twitter]: https://twitter.com/__gustavonovaes
-[instagram]: https://instagram.com/gustavonovaes.dev
 [linkedin]: https://www.linkedin.com/in/gustavonovaes
