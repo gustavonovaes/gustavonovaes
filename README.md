@@ -1,6 +1,6 @@
 ### Olá :wave:, sou o Gustavo Novaes :lotus_position_man: 
 
-Tenho 31 anos e trabalho com desenvolvimento Web há mais de 12 anos, construindo aplicações fullstack, REST APIs, microsserviços e aplicativos móveis. 
+Tenho 31 anos e trabalho com Dev Web há mais de 12 anos, construindo: Sistemas Distribuídos, REST APIs, microsserviços e aplicativos móveis. 
 
 <div style="float: left; width: 50%;">
 
@@ -9,11 +9,9 @@ Tenho 31 anos e trabalho com desenvolvimento Web há mais de 12 anos, construind
   - **Node.js**
   - **React** 
 
-- :seedling: Ganhando mais experiência com 
-  - **AWS** e **GCP** 
-  - **Kubernetes**
-  - **Kafka**
+- :seedling: Ganhando experiência com 
   - **Go**
+  - **HTMX** 
 
 #### :books: Linguagens, tecnologias e ferramentas
 <dl>
