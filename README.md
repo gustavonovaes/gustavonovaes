@@ -1,6 +1,6 @@
 ### Olá :wave:, sou o Gustavo Novaes :lotus_position_man: 
 
-Tenho 32 anos e trabalho com Dev Web há mais de 12 anos, construindo: Sistemas Distribuídos, REST APIs, microsserviços e aplicativos móveis. 
+Tenho 32 anos e trabalho com Dev Web há mais de 13 anos, construindo: Sistemas Distribuídos, REST APIs, microsserviços e aplicativos móveis. 
 
 <div style="float: left; width: 50%;">
 
