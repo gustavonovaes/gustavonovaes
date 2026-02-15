@@ -1,6 +1,6 @@
 ### Olá :wave:, sou o Gustavo Novaes :lotus_position_man: 
 
-Tenho 32 anos e trabalho com Dev Web há mais de 13 anos, construindo: Sistemas Distribuídos, REST APIs, microsserviços e aplicativos móveis. 
+Tenho 33 anos e trabalho com Dev Web há mais de 14 anos, construindo: Sistemas Distribuídos, REST APIs, microsserviços e aplicativos móveis. 
 
 <div style="float: left; width: 50%;">
 
@@ -10,8 +10,13 @@ Tenho 32 anos e trabalho com Dev Web há mais de 13 anos, construindo: Sistemas 
   - **React** 
 
 - :seedling: Ganhando experiência com 
+  - **Engenharia de IA**
+    - Arquitetura e integração de Agentes de IA em ambientes corporativos
+    - Consumo eficiente de LLMs (prompting, tokens, latência, custo, contexto)
+    - Orquestração de modelos e ferramentas
+    - Integração de IA na esteira CI/CD
+    - Observabilidade, segurança e governança de IA
   - **Go**
-  - **HTMX** 
 
 #### :books: Linguagens, tecnologias e ferramentas
 <dl>
@@ -43,6 +48,9 @@ Tenho 32 anos e trabalho com Dev Web há mais de 13 anos, construindo: Sistemas 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
       </a> 
+      <a href="https://bun.sh/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="BUN" width="40" height="40"/> 
+      </a> 
       <a href="https://nestjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" height="40"/> 
       </a> 
@@ -69,11 +77,11 @@ Tenho 32 anos e trabalho com Dev Web há mais de 13 anos, construindo: Sistemas 
       <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
       </a> 
-      <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-      </a> 
       <a href="https://redis.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
       </a> 
     </p>
   </dd>
